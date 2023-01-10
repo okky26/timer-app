@@ -1,9 +1,14 @@
 import React from 'react'
+// import {Link} from 'react-router-dom'
 
-const navigation = () => {
-  return (
-    <div>navigation</div>
-  )
-}
+// const navigation = () => {
+//   return (
+//     <header className={'fixed'}>
+//       <Link to={'/'}>
+//         Home
+//       </Link>
+//     </header>
+//   )
+// }
 
-export default navigation
+// export default navigation
